@@ -2,7 +2,7 @@
 Extracting Ground Truth Labels from Radiology Reports
 <hr/>
 
-<img src="example-report.png" width="30%" align="right" style="padding-left:20px">
+<img src="example-report.PNG" width="30%" align="right" style="padding-left:20px">
 
 In this project you'll learn to extract information from unstructured medical text. In particular, you'll learn about the following topics:
 
